@@ -1,0 +1,4 @@
+// http://brianflove.com/2016/11/08/typescript-2-express-node/
+
+
+//this guy @brian_love writes some pretty good TypeScript2, NodeJS and Angular 2 tutorials.
