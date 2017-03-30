@@ -1,4 +1,11 @@
 // http://brianflove.com/2016/11/08/typescript-2-express-node/
 
+http://gokestereats.webege.com/
+https://make.wordpress.org/themes/handbook/about/
+https://www.recallact.com/presentation/deep-dive-let%E2%80%99s-encrypt
+
+
 
 //this guy @brian_love writes some pretty good TypeScript2, NodeJS and Angular 2 tutorials.
+http://brianflove.com/2016/11/11/typescript-2-express-mongoose-mocha-chai/
+
